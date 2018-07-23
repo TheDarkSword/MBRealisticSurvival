@@ -1,0 +1,6 @@
+name: MBRealisticSurvival
+version: 1.0
+author: TheDarkSword01
+depend: [MBCore, BossBarAPI]
+main: it.mineblock.realisticsurvival.Main
+description: Just a Plugin
